@@ -21,7 +21,7 @@ Diseñar, implementar y probar una red corporativa que integre los principales s
 ## 🗺️ Topología general
 
 📸 *(Topología Red Corporativa)*  
-![](https://github.com/Rodrimiguel/Red-Corporativa---Debian/blob/main/Topolog%C3%ADa_RedCorporativa..jpg)
+![](https://github.com/Rodrimiguel/Red-Corporativa---Debian/blob/main/RedCorporativa.jpg)
 
 ---
 
